@@ -8,7 +8,8 @@ Structure
 #### Section 2 - Examples
 Locally
 - Install, setup, secure, and deploy DB 
-- Administer example DB ... create schemas,tables, views, functions, etc ... develop DB using automation 
+- Administer example DB ... create schemas,tables, views, functions, etc ... develop DB using automation
+ 
 Cloud 
 - OLTP hosted in the cloud 
 - TB platform 
